@@ -1,0 +1,13 @@
+@import "bootstrap/scss/bootstrap.scss";
+@import url("http://fonts.googleapis.com/css?family=Oswald:400,300,700");
+@import "datatables.net-bs5/css/dataTables.bootstrap5.min.css";
+@import "bootstrap-icons/font/bootstrap-icons.scss"; 
+/*
+    import file css untuk select2
+*/
+@import "/node_modules/select2/dist/css/select2.css";
+@import "/node_modules/select2-bootstrap-5-theme/dist/select2-bootstrap-5-theme.css";
+  
+.container{
+    padding-top: 30px !important;
+} 
